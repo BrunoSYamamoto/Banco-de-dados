@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Trabalho - Tabela" id="0CDA9523-AA67-7BE7-3707-8002C29FBEE6" version="3.5">
+<createdBy>Bruno</createdBy>
+<createdTime>2026-10-07 05:28:48 UTC</createdTime>
+<ownerDesignName>Trabalho - Tabela</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>0CDA9523-AA67-7BE7-3707-8002C29FBEE6</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="6C617382-78E0-5D5F-1632-575FBCB0F872">
+<designStoragePath>C:\modelagem_fisica_joias</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
